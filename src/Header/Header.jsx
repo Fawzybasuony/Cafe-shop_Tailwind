@@ -38,6 +38,7 @@ export default function Header() {
 
           <div className="col-span-6 inline-block">
             <img
+              data-aos="fade-left"
               className=" h-[600px]"
               src="https://nextjs-coffee-shop-kappa.vercel.app/_next/image?url=%2Fcoffee%2Falowishus-coffee.png&w=1200&q=75"
               alt=""
