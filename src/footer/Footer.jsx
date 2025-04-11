@@ -44,8 +44,8 @@ export default function Footer() {
             </div>
           </form>
         </div>
-        <div className="bg-black/5 p-4 text-center">
-          © 2024 Copyright:
+        <div className="bg-gray-400 text-gray-700 p-4 text-center">
+          © 2025 Copyright:
           <a href="https://tw-elements.com/">Fawzy</a>
         </div>
       </footer>
